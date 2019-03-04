@@ -1,22 +1,14 @@
-[
-   {
+{
+  "posts": [
+    {
       "id": 1,
-      "name": "Lagaan",
-      "rating": 7  
-   },
-    {
-      "id": 2,
-      "name": "Swades",
-      "rating": 8  
-   },
-    {
-      "id": 3,
-      "name": "Dabang",
-      "rating": 6  
-   }
-
-
-]
+      "title": "hello"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
 
 
 
