@@ -1,6 +1,6 @@
 [
-  { "id": 1, "name" : "PK", "type": '', "rating": 9 },
-  { "id": 2, "name" : "Dabang", "type": '', "rating": 9 },
-  { "id": 3, "name" : "Uri", "type": '', "rating": 10 },
-  { "id": 4, "name" : "Swades", "type": '', "rating": 10 }
+  { "id": 1, "name" : "PK", "type": "drama", "rating": 9 },
+  { "id": 2, "name" : "Dabang", "type": "drama", "rating": 9 },
+  { "id": 3, "name" : "Uri", "type": "drama", "rating": 10 },
+  { "id": 4, "name" : "Swades", "type": "drama", "rating": 10 }
 ]
